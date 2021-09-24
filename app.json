@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.ipaulinh0.conversioncoin"
     },
     "web": {
       "favicon": "./assets/favicon.png"
